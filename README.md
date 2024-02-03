@@ -1,4 +1,4 @@
-# PET_PROJECT_ANALYTICS
+# PET-PROJECT ANALYTICS
  A/B–тестирование, SQL, ClickHouse, Python(Pandas, NumPy)  
 
 # Задание 1. A/B–тестирование  

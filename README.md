@@ -1,4 +1,4 @@
-# PET-PROJECT ANALYTICS
+# PROJECT ANALYTICS KARPOV.COURSES
  A/B–тестирование, SQL, ClickHouse, Python(Pandas, NumPy)  
 
 # Задание 1. A/B–тестирование  
